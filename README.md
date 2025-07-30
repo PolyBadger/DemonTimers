@@ -8,8 +8,8 @@ A World of Warcraft Addon: DemonTimers
 A World of Warcraft addon that provides information about imps and demons summoned by demonology warlocks.
 
 ## Usage
-/dt start   enable addon
-/dt stop    disable addon
+/dt start   enable addon  
+/dt stop    disable addon  
 
 ## Authors
 PolyBadger1337@gmail.com
